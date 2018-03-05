@@ -1,0 +1,19 @@
+table{
+  text-align: center;
+}
+thead, tr, th{
+  text-align: center;
+}
+thead> tr >th:hover{
+  text-align: center;
+  text-decoration: underline;
+  cursor: pointer;
+}
+img{
+  height: 90px;
+  width: 120px;
+}
+.task_input{
+  width: 170px;
+  height: 70px;
+}
